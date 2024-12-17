@@ -2,7 +2,7 @@
 - 👀 I’m interested in Database Designing, UI Design, Mathematics, Space, Badminton, Watches
 - 🌱 I’m currently learning ... C# 
 - 📫 How to reach me ... shauryathanvi4@gmail.com
-- ⚡ Fun fact: ... We look through time. How.. Just stargaze. 
+- ⚡ Fun fact: ... We have the ability look through time. How.. Just stargaze. 
 
 <!---
 Shauryathanvi/Shauryathanvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
