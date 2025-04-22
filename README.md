@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shauryathanvi
 - 👀 I’m interested in Database Designing, UI Design, Mathematics, Space, Badminton, Watches
-- 🌱 I’m currently learning ... C# 
+- 🌱 I’m currently learning ... Flutter 
 - 📫 How to reach me ... shauryathanvi4@gmail.com
 - ✨ Fun fact: ... We have the ability look through time. How.. Just stargaze. 
 
